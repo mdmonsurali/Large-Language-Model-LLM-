@@ -8,6 +8,7 @@ This repository is designed to help developers and researchers work with cutting
 Model tutorials: Learn how to load and use models like Llama 3, Llama 3.1, Gemma 2, and Mistral using Ollama and GPT4All frameworks.
 RAG approaches: Implement and explore RAG techniques such as Raptor, GraphRAG, and R2R to enhance LLM capabilities with context-aware information retrieval.
 Vector databases: Tutorials on integrating vector databases like ChromaDB and FIAS for efficient data retrieval and similarity searches.
+
 📄 Contents
 1. LLM Tutorials
 Llama 3: Step-by-step guide to using Llama 3 with Ollama.
@@ -22,6 +23,7 @@ R2R (RAG to Riches): A deep dive into the R2R technique.
 3. Vector Databases
 ChromaDB: Integrating ChromaDB for vector similarity search.
 FIAS: Using FIAS as a vector database for LLM tasks.
+
 🛠️ Getting Started
 Prerequisites
 Python 3.8+
@@ -37,10 +39,10 @@ RAG: Understand and implement cutting-edge RAG techniques.
 Vector Databases: Integrate databases like ChromaDB and FIAS to enhance LLMs with retrieval capabilities.
 
 🔗 Resources
-    Ollama Documentation
-    GPT4All
-    ChromaDB
-    FIAS
+Ollama Documentation
+GPT4All
+ChromaDB
+FIAS
 
 🤝 Contributing
 We welcome contributions! Please feel free to open an issue or submit a pull request if you'd like to improve this repository. Contributions can include:
