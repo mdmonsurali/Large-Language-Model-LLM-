@@ -29,9 +29,9 @@ FIAS: Using FIAS as a vector database for LLM tasks.
 
 Prerequisites
 
-Python 3.8+
-Pip (Python package manager)
-Ollama and GPT4All installed
+Python 3.8+ 
+Pip (Python package manager) 
+Ollama and GPT4All installed 
 Vector database libraries (e.g., ChromaDB, FIAS)
 
 📚 Tutorials
