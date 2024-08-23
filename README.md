@@ -1,4 +1,5 @@
 🤖 LLM Tutorials and RAG Implementations
+
 Welcome to the LLM Tutorials and RAG Implementations repository! This repository provides tutorials, guides, and implementations for working with Large Language Models (LLMs) such as Llama 3, Llama 3.1, Gemma 2, Mistral, and more, using frameworks like Ollama and GPT4All. It also includes examples of advanced Retrieval-Augmented Generation (RAG) approaches, such as Raptor, GraphRAG, and R2R (RAG to Riches), integrated with vector databases like ChromaDB and FIAS.
 
 🚀 Overview
