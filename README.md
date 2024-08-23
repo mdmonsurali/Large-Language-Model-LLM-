@@ -26,7 +26,9 @@ ChromaDB: Integrating ChromaDB for vector similarity search.
 FIAS: Using FIAS as a vector database for LLM tasks.
 
 🛠️ Getting Started
+
 Prerequisites
+
 Python 3.8+
 Pip (Python package manager)
 Ollama and GPT4All installed
