@@ -42,12 +42,14 @@ RAG: Understand and implement cutting-edge RAG techniques.
 Vector Databases: Integrate databases like ChromaDB and FIAS to enhance LLMs with retrieval capabilities.
 
 🔗 Resources
+
 Ollama Documentation
 GPT4All
 ChromaDB
 FIAS
 
 🤝 Contributing
+
 We welcome contributions! Please feel free to open an issue or submit a pull request if you'd like to improve this repository. Contributions can include:
 
 Adding new tutorials or models.
@@ -55,8 +57,10 @@ Improving existing guides.
 Sharing use cases or examples.
 
 📄 License
+
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
+
 For any inquiries or questions, please reach out to monsuralirana@egmail.com.
 
