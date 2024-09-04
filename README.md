@@ -6,7 +6,7 @@ Welcome to the LLM Tutorials and RAG Implementations repository! This repository
 
 This repository is designed to help developers and researchers work with cutting-edge LLMs and RAG methodologies. You'll find:
 
-** Model tutorials: ** Learn how to load and use models like Llama 3, Llama 3.1, Gemma 2, and Mistral using Ollama and GPT4All frameworks.
+**Model tutorials:** Learn how to load and use models like Llama 3, Llama 3.1, Gemma 2, and Mistral using Ollama and GPT4All frameworks.
 RAG approaches: Implement and explore RAG techniques such as Raptor, GraphRAG, and R2R to enhance LLM capabilities with context-aware information retrieval.
 Vector databases: Tutorials on integrating vector databases like ChromaDB and FIAS for efficient data retrieval and similarity searches.
 
