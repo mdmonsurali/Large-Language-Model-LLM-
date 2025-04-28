@@ -15,7 +15,7 @@ st.set_page_config(
 
 # Title and icon image
 st.markdown("""
-    # <img src="data:image/png;base64,{}" width="50" style="vertical-align: -12px;"> Gemma-3 OCR
+    # <img src="data:image/png;base64,{}" width="50" style="vertical-align: -12px;"> Gemma3 - OCR
 """.format(base64.b64encode(open("/image/gemma3.png", "rb").read()).decode()), unsafe_allow_html=True)
 
 # Clear button
@@ -25,7 +25,7 @@ with col2:
         st.session_state.pop('ocr_result', None)
         st.rerun()
 
-st.markdown('<p style="margin-top: -20px;">Extract structured text from images or PDFs using Gemma-3 Vision!</p>', unsafe_allow_html=True)
+st.markdown('<p style="margin-top: -20px;">Extract structured text from images or PDFs using Gemma3 Vision!</p>', unsafe_allow_html=True)
 st.markdown("---")
 
 # Sidebar for file upload
