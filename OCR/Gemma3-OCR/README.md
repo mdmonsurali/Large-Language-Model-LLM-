@@ -18,3 +18,12 @@ This project leverages Gemma3 vision capabilities and Streamlit to create a 100%
    pip install streamlit ollama pillow
    ```
 
+**Running in Google Colab**:
+   ```bash
+	!pip install pdf2image
+	!apt-get install poppler-utils
+	!pip install pyngrok
+   ```
+   Require ngrok authtoken. Go to the link, create account and generate your free authtoken. Link: https://dashboard.ngrok.com/authtokens
+   
+   Follow the 
