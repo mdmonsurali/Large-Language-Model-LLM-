@@ -24,6 +24,6 @@ This project leverages Gemma3 vision capabilities and Streamlit to create a 100%
 	!apt-get install poppler-utils
 	!pip install pyngrok
    ```
-   Require ngrok authtoken. Go to the link, create account and generate your free authtoken. Link: https://dashboard.ngrok.com/authtokens
+   Require ngrok authtoken. Go to the link, create an account, and generate your free authtoken. Link: https://dashboard.ngrok.com/authtokens
    
-   Follow the 
+   Follow the Run_Gemma3_OCR_Colab.ipynb file.
